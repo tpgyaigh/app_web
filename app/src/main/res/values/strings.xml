@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <string name="settings">设置</string>
+    <string name="url_setting">网址设置</string>
+    <string name="url_hint">请输入网址（例如：http://192.168.1.100）</string>
+    <string name="save">保存</string>
+    <string name="url_saved">网址已保存</string>
+    <string name="invalid_url">请输入有效的网址</string>
+    <string name="loading">加载中...</string>
+</resources>
